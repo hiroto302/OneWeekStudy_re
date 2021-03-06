@@ -6,7 +6,12 @@ namespace sample
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            // 文字列の表示
+            Console.Write("Hello Hiro");
+            Console.WriteLine("302");
+            // 文字列以外の表示
+            Console.Write(123);
+            Console.WriteLine(456);
         }
     }
 }
