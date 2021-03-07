@@ -40,7 +40,7 @@ namespace EP304
                 }
             }
             Console.WriteLine();
-            最大値、最小値の表示
+            // 最大値、最小値の表示
             Console.WriteLine("最大値 : " + max);
             Console.WriteLine("最小値 : " + min);
         }
