@@ -1,0 +1,11 @@
+/Users/hiro302/C#/OneWeekStudy_re/S_404/bin/Debug/netcoreapp3.0/S_404
+/Users/hiro302/C#/OneWeekStudy_re/S_404/bin/Debug/netcoreapp3.0/S_404.deps.json
+/Users/hiro302/C#/OneWeekStudy_re/S_404/bin/Debug/netcoreapp3.0/S_404.runtimeconfig.json
+/Users/hiro302/C#/OneWeekStudy_re/S_404/bin/Debug/netcoreapp3.0/S_404.runtimeconfig.dev.json
+/Users/hiro302/C#/OneWeekStudy_re/S_404/bin/Debug/netcoreapp3.0/S_404.dll
+/Users/hiro302/C#/OneWeekStudy_re/S_404/bin/Debug/netcoreapp3.0/S_404.pdb
+/Users/hiro302/C#/OneWeekStudy_re/S_404/obj/Debug/netcoreapp3.0/S_404.csprojAssemblyReference.cache
+/Users/hiro302/C#/OneWeekStudy_re/S_404/obj/Debug/netcoreapp3.0/S_404.AssemblyInfoInputs.cache
+/Users/hiro302/C#/OneWeekStudy_re/S_404/obj/Debug/netcoreapp3.0/S_404.AssemblyInfo.cs
+/Users/hiro302/C#/OneWeekStudy_re/S_404/obj/Debug/netcoreapp3.0/S_404.dll
+/Users/hiro302/C#/OneWeekStudy_re/S_404/obj/Debug/netcoreapp3.0/S_404.pdb
